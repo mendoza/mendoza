@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is David
 #### I am a software engineer
-I love all kind of programs, from low level C to high level JS so I have some random projects on here, but feel free to explore.
+![Cover](https://github.com/Dmendoza99/dmendoza99/blob/master/CoverImage.png?raw=true)
 
-Skills: React / React Native / C / C++ / SQL / NoSQL / Python / Lua
+I love all kind of programs, from low level C to high level JS so I have some random projects on here, but feel free to explore.
 
 - 🔭 I’m currently working on Small Firebase for inside projects at @sinewtech 
 - 🌱 I’m currently learning Go 
