@@ -19,7 +19,7 @@ I love all kind of programs, from low level C to high level JS so I have some ra
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mariadb)
 ![Lua](https://img.shields.io/badge/-lua-000000?style=flat&logo=lua&logoColor=000080)
 
 
@@ -28,10 +28,15 @@ I love all kind of programs, from low level C to high level JS so I have some ra
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Asana](https://img.shields.io/badge/-Asana-222222?style=flat&logo=asana&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=PostgreSQL)
+![Ionic](https://img.shields.io/badge/-Ionic-222222?style=flat&logo=ionic)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React%20Native-222222?style=flat&logo=React&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Sol2](https://img.shields.io/badge/-Sol2-000000?style=flat&logo=lua&logoColor=000080)
 
 
