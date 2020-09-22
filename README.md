@@ -53,6 +53,6 @@ I love all kind of programs, from low level C to high level JS so I have some ra
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmendoza99&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mendoza&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/dmendoza99)  
+![Profile views](https://gpvc.arturio.dev/mendoza)  
