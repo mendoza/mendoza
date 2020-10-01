@@ -1,4 +1,4 @@
-### Hi there 👋, my name is David
+### Hi there 👋, my name is David.
 [![trophy](https://github-profile-trophy.vercel.app/?username=mendoza)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### I am a software engineer
