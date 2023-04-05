@@ -6,9 +6,9 @@
 
 I love all kind of programs, from low level C to high level JS so I have some random projects on here, but feel free to explore.
 
-- 🔭 I’m currently working on Small Firebase for inside projects at @sinewtech 
-- 🌱 I’m currently learning Go 
-- 💬 Ask me about MERN stack 
+- 🔭 I’m currently working on [Lempira](https://github.com/mendoza/lempira-web-app)
+- 🌱 I’m currently learning SvelteKit
+- 💬 Ask me about Pocket Base & SvelteKit
 - 😄 Pronouns: He / Him 
 
 ##### Some of the technologies I have worked with
